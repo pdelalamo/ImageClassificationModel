@@ -29,8 +29,8 @@ Install the necessary dependencies using your preferred package management tool 
 Installation
 
 Clone the repository:
-git clone https://github.com/your-username/FoodImageNutritionalEstimator.git
-cd FoodImageNutritionalEstimator
+git clone https://github.com/pdelalamo/ImageClassificationModel.git
+cd ImageClassificationModel
 Configure the Project:
 
 Update the paths in DataParser.java and TestModel.java to point to the correct directories for images and metadata on your local system.
