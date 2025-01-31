@@ -52,7 +52,7 @@ mvn clean install
 ```
 
 3. **Usage**
-4. 
+   
 After building the project, you can use it for the following tasks:
 
 - Training the Model: Run CNNModel.java to train the model using your image dataset.
